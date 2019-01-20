@@ -1,26 +1,25 @@
-h1 { padding-top: 150px; }
-h2 { padding-top: 150px; }
+.portfolio {padding-top: 50px}
  .navbar {
-  min-height: 150px;
+  min-height: 100px;
 }
 
-.navbar-brand {
+.logo {
   padding: 0 15px;
-  height: 150px;
-  line-height: 150px;
+  height: 100px;
+  line-height: 100px;
 }
 
 .navbar-toggle {
   /* (80px - button height 34px) / 2 = 23px */
-  margin-top: 58px;
+  margin-top: 33px;
   padding: 9px 10px !important;
 }
 
 @media (min-width: 768px) {
   .navbar-nav > li > a {
     /* (80px - line-height of 27px) / 2 = 26.5px */
-    padding-top: 61.5px;
-    padding-bottom: 61.5px;
+    padding-top: 36.5px;
+    padding-bottom: 36.5px;
     line-height: 27px;
   }
 }
