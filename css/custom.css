@@ -25,7 +25,7 @@
 }
 @media (max-width:315px) { 
 .logo img {
-    width: 50% \9; /*Force IE10 and below to size SVG images correctly*/
+    width: 75% \9; /*Force IE10 and below to size SVG images correctly*/
     max-width: 75%;
 }
 }
