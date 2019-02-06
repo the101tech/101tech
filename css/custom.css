@@ -31,4 +31,8 @@
     width: 75% \9; /*Force IE10 and below to size SVG images correctly*/
     max-width: 75%;
 }
+header {
+  padding-bottom: 10px
+}
+}
 }
